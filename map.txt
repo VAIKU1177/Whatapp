@@ -1,3 +1,4 @@
 THIS IS AN CHAT APP
 user want to sent the sent the msg
 user want read the messege double click onn the right side
+User want to share images and videos
